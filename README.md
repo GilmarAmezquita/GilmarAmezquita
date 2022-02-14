@@ -4,7 +4,7 @@
   <ul>
     <li>🧑 I'm 19 years old</li>
     <li>🎓 I’m currently studying at ICESI university </li>
-    <li>📫 How to reach me gilmarandresamezquita@hotmail.com</li>
+    <li>📫 How to reach me <a href="mailto:gilmarandresamezquita@hotmail.com">gilmarandresamezquita@hotmail.com</a></li>
   </ul>
 </div>
 
