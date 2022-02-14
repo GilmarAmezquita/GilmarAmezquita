@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div>
+  <ul>
+    <li>🧑 I'm 19 years old</li>
+    <li>I’m currently studying at ICESI university </li>
+  </ul>
+</div>
 <!--
 **GilmarAmezquita/GilmarAmezquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
