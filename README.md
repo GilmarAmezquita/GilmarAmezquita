@@ -7,11 +7,22 @@
   </ul>
 </div>
 
+###
+<div>
+    <table class="default" align="center">
+        <tr>
+            <th width="250"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></th>
+            <th width="250"><img sec="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></th>
+        </tr>
+        <tr>
+            <th width="250"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/></th>
+            <th width="250"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></th> 
+        </tr>
+    </table>
+</div>
+
 ### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GilmarAmezquita&show_icons=true&theme=tokyonight" style="Margin-top:10px;">
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilmarAmezquita&layout=compact&theme=tokyonight" style="Margin-top:10px;">
 </div>
