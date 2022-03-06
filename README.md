@@ -11,12 +11,12 @@
 <div>
     <table class="default" align="center">
         <tr>
-            <th width="250"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></th>
-            <th width="250"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></th>
+            <th width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></th>
+            <th width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></th>
         </tr>
         <tr>
-            <th width="250"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/></th>
-            <th width="250"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></th> 
+            <th width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/></th>
+            <th width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></th> 
         </tr>
     </table>
 </div>
