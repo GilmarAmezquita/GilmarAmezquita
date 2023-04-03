@@ -1,9 +1,11 @@
 ### Hi there, im Gilmar 👋
 <div>
   <ul>
-    <li>🧑 I'm 19 years old</li>
+    <li>🧑 I'm 21 years old</li>
     <li>🎓 I’m currently studying at ICESI university </li>
+    <li>💻 I'm working part time as a software developer at ICESI University </li>
     <li>📫 How to reach me <a href="mailto:gilmarandresamezquita@hotmail.com">gilmarandresamezquita@hotmail.com</a></li>
+    <li>📫 Also can reach me here: <a href="mailto:gilmar.amezquita1@u.icesi.edu.co">gilmar.amezquita1@u.icesi.edu.co</a></li>
   </ul>
 </div>
 
