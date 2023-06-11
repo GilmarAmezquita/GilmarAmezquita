@@ -1,8 +1,8 @@
-### Hi there, im Gilmar 👋
+### Hey Budy, im Gilmar Amezquita 👋
 <div>
   <ul>
     <li>🧑 I'm 21 years old</li>
-    <li>🎓 I’m currently studying at ICESI university </li>
+    <li>🎓 Currently studying at ICESI university, just ending 7th semester. </li>
     <li>💻 I'm working part time as a software developer at ICESI University </li>
     <li>📫 How to reach me <a href="mailto:gilmarandresamezquita@hotmail.com">gilmarandresamezquita@hotmail.com</a></li>
     <li>📫 Also can reach me here: <a href="mailto:gilmar.amezquita1@u.icesi.edu.co">gilmar.amezquita1@u.icesi.edu.co</a></li>
